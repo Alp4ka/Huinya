@@ -1,0 +1,13 @@
+C:\Users\kisam\OneDrive\Рабочий стол\Huinya\MatrixCalc\MatrixCalc\bin\Debug\netcoreapp3.1\MatrixCalc.exe
+C:\Users\kisam\OneDrive\Рабочий стол\Huinya\MatrixCalc\MatrixCalc\bin\Debug\netcoreapp3.1\MatrixCalc.deps.json
+C:\Users\kisam\OneDrive\Рабочий стол\Huinya\MatrixCalc\MatrixCalc\bin\Debug\netcoreapp3.1\MatrixCalc.runtimeconfig.json
+C:\Users\kisam\OneDrive\Рабочий стол\Huinya\MatrixCalc\MatrixCalc\bin\Debug\netcoreapp3.1\MatrixCalc.runtimeconfig.dev.json
+C:\Users\kisam\OneDrive\Рабочий стол\Huinya\MatrixCalc\MatrixCalc\bin\Debug\netcoreapp3.1\MatrixCalc.dll
+C:\Users\kisam\OneDrive\Рабочий стол\Huinya\MatrixCalc\MatrixCalc\bin\Debug\netcoreapp3.1\MatrixCalc.pdb
+C:\Users\kisam\OneDrive\Рабочий стол\Huinya\MatrixCalc\MatrixCalc\obj\Debug\netcoreapp3.1\MatrixCalc.csprojAssemblyReference.cache
+C:\Users\kisam\OneDrive\Рабочий стол\Huinya\MatrixCalc\MatrixCalc\obj\Debug\netcoreapp3.1\MatrixCalc.AssemblyInfoInputs.cache
+C:\Users\kisam\OneDrive\Рабочий стол\Huinya\MatrixCalc\MatrixCalc\obj\Debug\netcoreapp3.1\MatrixCalc.AssemblyInfo.cs
+C:\Users\kisam\OneDrive\Рабочий стол\Huinya\MatrixCalc\MatrixCalc\obj\Debug\netcoreapp3.1\MatrixCalc.csproj.CoreCompileInputs.cache
+C:\Users\kisam\OneDrive\Рабочий стол\Huinya\MatrixCalc\MatrixCalc\obj\Debug\netcoreapp3.1\MatrixCalc.dll
+C:\Users\kisam\OneDrive\Рабочий стол\Huinya\MatrixCalc\MatrixCalc\obj\Debug\netcoreapp3.1\MatrixCalc.pdb
+C:\Users\kisam\OneDrive\Рабочий стол\Huinya\MatrixCalc\MatrixCalc\obj\Debug\netcoreapp3.1\MatrixCalc.genruntimeconfig.cache
